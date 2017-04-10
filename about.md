@@ -5,15 +5,14 @@ permalink: /about/
 ---
 
 ### 관심분야
-* 데이터 수집
-* 데이터 분석
+* 어플리케이션 개발
 
 ### 사용언어
 * C
 * Java
-* Python
-* Ruby on Rails(Not Ruby!)
+* Objective-C
+* Swift 3.0
 
 ### 연락처
-* Blog : [www.sangkon.com](http://www.sangkon.com)
-* Mail : [ask@sangkon.com](mailto:ask@sangkon.com)
+* Blog : [www.seoyeong.com](http://www.seoyeong.com)
+* Mail : [gjtjdud93@gmail.com](mailto:gjtjdud93@gmail.com)
