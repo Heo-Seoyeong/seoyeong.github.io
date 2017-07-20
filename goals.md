@@ -8,7 +8,6 @@ permalink: /goals/
 
 #### IVIS(정보시각화연구실)!
 * 캡스톤 디자인
-* 기초교육원 튜터풀
 * 알고리즘 스터디
 
 #### Favorie!
@@ -20,6 +19,17 @@ permalink: /goals/
 	* 네이버
 * Ticket Out
 	* Android Application
+* Nohabito
+	* IOS Application
+
+#### 자기계발
+* 블로그 개발
+	* 스프링
+* git 이해
+* TDD (Test Driven Development)
+* 프로그래밍 공부
+	* 자료구조
+	* 알고리즘
 
 #### Others!
 * 운동...
