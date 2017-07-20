@@ -14,5 +14,5 @@ permalink: /about/
 * Swift 3.0
 
 ### 연락처
-* Blog : [www.seoyeong.com](http://www.seoyeong.com)
+* Blog : [www.heoseoyeong.com](http://www.heoseoyeong.com)
 * Mail : [gjtjdud93@gmail.com](mailto:gjtjdud93@gmail.com)
