@@ -1,0 +1,33 @@
+---
+layout: post
+title: TDD
+author: Heo Seoyeong
+tags: Study
+---
+
+## 1 TDD_Swift (Test Driven Development)
+교재 : [테스트 주도 개발 Program, Programming, Programmer , 인사이트](http://www.yes24.com/24/goods/12246033?scode=029)  
+기간 : 2017. 7. 18 ~ 2017. 8. 25  
+교재의 내용을 Swift를 이용하여 구현  
+
+## 2 진행 일정  
+### 1회  
+* 날짜 : 2017. 7. 18  
+* 분량 : 1장 ~ 8장  
+ 
+### 2회  
+* 날짜 : 2017. 7. 25  
+* 분량 : 9장 ~ 13장  
+ 
+### 3회  
+* 날짜 : 2017. 8. 1  
+* 분량 : 14장 ~ 16장  
+
+## 3 TDD를 위한 프로젝트 생성  
+```bash
+$ git clone https://github.com/Heo-Seoyeong/TDD_Swift.git
+$ cd TDD_Swift
+$ swift package init
+$ swift package generate-xcodeproj
+$ oepn SwiftTDD.xcodeproj
+```
