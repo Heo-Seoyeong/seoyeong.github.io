@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NOHABITO App Upload
+title: ELK Seminar
 author: Heo Seoyeong
 tags: Seminar
 ---
