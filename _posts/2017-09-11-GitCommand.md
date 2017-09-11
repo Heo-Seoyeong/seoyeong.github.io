@@ -5,7 +5,7 @@ author: HeoSeoyeong
 tags: Memo
 ---
 
-## 1 git 처음 사용할 
+## 1 git 처음 사용할 때  
 
 git 설치  
 git init  
