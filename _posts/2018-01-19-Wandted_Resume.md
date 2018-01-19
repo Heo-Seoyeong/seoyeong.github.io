@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resume 1st
+title: 원티드랩에서 이야기하는 통과잘되는 이력서 작성법 (신입/경력 포함)  
 author: Heo Seoyeong
 tags: Resume
 ---
