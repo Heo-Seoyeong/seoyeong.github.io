@@ -1,18 +1,14 @@
----
+- - - -
 layout: page
 title: About
 permalink: /about/
----
-
+- - - -
 ### 관심분야
-* 어플리케이션 개발
+* iOS App 개발
 
 ### 사용언어
-* C
-* Java
+* Swift (<=4.0)
 * Objective-C
-* Swift 3.0
 
 ### 연락처
-* Blog : [www.heoseoyeong.com](http://www.heoseoyeong.com)
 * Mail : [gjtjdud93@gmail.com](mailto:gjtjdud93@gmail.com)
